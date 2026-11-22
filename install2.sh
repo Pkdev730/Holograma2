@@ -9,7 +9,8 @@ FF_PACKAGE="com.dts.freefireth"
 FF_DATA_ROOT="/storage/emulated/0/Android/data/${FF_PACKAGE}"
 FF_ASSETS_DIR="${FF_DATA_ROOT}/files/contentcache/Optional/android"
 
-REMOTE_ZIP="https://raw.githubusercontent.com/Pkdev730/Holograma/main/HOLOGRAMA%20VIP.zip"
+# LINK DO ZIP APONTANDO PRO REPO NOVO (Holograma2)
+REMOTE_ZIP="https://raw.githubusercontent.com/Pkdev730/Holograma2/main/HOLOGRAMA%20VIP.zip"
 TMP_DIR="/data/data/com.termux/files/usr/tmp/ghost_cloud"
 
 SHADER_ORIGINAL="shaders.OMFd4hA1zxkPVCeTGXNDssFQbgI~3D"
